@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/itemTypeLayout"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical">
+    <include layout="@layout/view_invalid_tomato"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/bellam_sugar"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/meat"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/coconut"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/ghee"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/butter_milk"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/fish"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/ragi_flour"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/menthulu"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/chilled_items"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal">
+    </LinearLayout>
+</LinearLayout>

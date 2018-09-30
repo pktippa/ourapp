@@ -1,6 +1,29 @@
 <resources>
     <string name="app_name">OurApp</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="valid">తినగలిగేవి</string>
+    <string name="invalid">తినకూడనివి</string>
+    <string name="rice">పచ్చి బియ్యం అన్నం</string>
+    <string name="miryala_rasam">మిర్యాల రసం</string>
+    <string name="kandipappu_sambar">కందిపప్పు సాంబార్</string>
+    <string name="vulavala_rasam">ఉలవల రసం</string>
+    <string name="Tomato">టమాటో</string>
+    <string name="vankayalu">వంకాయలు</string>
+    <string name="munakayalu">మునకాయలు</string>
+    <string name="kakarakayalu">కాకరకాయలు</string>
+    <string name="puvvukosu">పువ్వు కోసు</string>
+    <string name="mirapakaulu">పచ్చి మిరపకాయలు, ఎండు మిరపకాయలు</string>
+    <string name="verusangalu">వేరుసెనగ పప్పుల చట్నీ</string>
+    <string name="godumaupma">గోధుమ ఉప్మ</string>
+    <string name="chapathi_puri">చపాతీ మరియు పూరి</string>
+    <string name="verusenaga_nuney">వేరుసెనగ నునే రిఫైన్డ్ ఆయిల్</string>
+    <string name="allam_chinthapandu">అల్లం, చింతపండు</string>
+    <string name="bellam_sugar">పంచదార, బెల్లం</string>
+    <string name="meat">మాంసము</string>
+    <string name="coconut">కొబ్బరి</string>
+    <string name="ghee">నెయ్యి</string>
+    <string name="butter_milk">పెరుగు, మజ్జిగ</string>
+    <string name="fish">చేపలు</string>
+    <string name="ragi_flour">రాగి పిండి</string>
+    <string name="menthulu">మెంతులు</string>
+    <string name="chilled_items">చల్లటి పదార్ధాలు</string>
 </resources>

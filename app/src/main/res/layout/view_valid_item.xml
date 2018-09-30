@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/itemTypeLayout"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical">
+    <include layout="@layout/view_valid_rice"/>
+    <include layout="@layout/view_valid_miryala_rasam"/>
+    <include layout="@layout/view_valid_kandipappu_sambar"/>
+    <include layout="@layout/view_valid_ulavala_rasam"/>
+    <include layout="@layout/view_valid_vankayalu"/>
+    <include layout="@layout/view_valid_munakayalu"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/kakarakayalu"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/puvvukosu"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/mirapakaulu"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+     <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/verusangalu"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/godumaupma"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/chapathi_puri"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <include layout="@layout/view_valid_groundnut_oil"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginBottom="2sp"
+            android:layout_marginTop="2sp"
+            android:height="100sp"
+            android:text="@string/allam_chinthapandu"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal">
+    </LinearLayout>
+
+</LinearLayout>
